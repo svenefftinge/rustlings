@@ -1,3 +1,5 @@
+
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️
@@ -118,7 +120,7 @@ Additionally, we could use exercises on a couple of topics:
 
 If you are interested in improving or adding new ones, please feel free to contribute! Read on for more information :)
 
-## Contributing
+## Contributing [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rust-lang/rustlings) 
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
